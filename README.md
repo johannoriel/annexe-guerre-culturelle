@@ -145,8 +145,6 @@ Déployé après la crise du COVID sur un modèle partiellement inspiré des exp
 
 Pris séparément, chacun de ces dispositifs se justifie par une intention louable. Ensemble, ils dessinent une architecture cohérente de surveillance et de contrôle — légale, démocratique dans ses formes, mais dont la convergence pose une question fondamentale : qui décide de l'usage de cette infrastructure, et selon quels garde-fous ? Ce n'est pas la question des ingénieurs qui construisent ces systèmes. Mais c'est celle des citoyens qui les subissent — et celle des entrepreneurs qui ont décidé de ne pas les laisser s'installer sans résistance.
 
----
-
 **Références principales**
 - Règlement DSA (UE) 2022/2065 — *Journal officiel de l'Union européenne*.
 - Proposition Chat Control, COM(2022) 209 final — Commission européenne.
@@ -180,8 +178,6 @@ Les rapports de force migrent donc vers le cyberespace. Piratage, manipulation a
 Dans ce monde déterritorialisé — potentiellement scindé en deux internets physiques distincts, occidental et chinois — les ressources rares ont muté. L'information n'est plus rare : elle est surabondante. Ce qui est rare, c'est l'attention humaine, cette bande passante cognitive limitée par la biologie de nos cerveaux. L'attention devient la nouvelle monnaie : capter les regards assure influence, réputation, pouvoir algorithmique. Le statut social — pilier des hiérarchies primates depuis des millions d'années — migre dans l'espace numérique, où il se mesure en vues, en abonnés, en taux d'engagement.
 
 La guerre culturelle n'est pas une guerre pour les territoires ni pour les ressources naturelles. C'est une guerre pour l'attention — et pour les architectures qui décident de la distribuer.
-
----
 
 **Références principales**
 - Nakamoto, S. (2008). *Bitcoin: A Peer-to-Peer Electronic Cash System*.
@@ -219,8 +215,6 @@ Les Twitter Files documentent également la mise en place du *shadowban* — la 
 **Ce que ces trois dossiers établissent ensemble**
 
 Pris isolément, chacun peut être relativisé. Ensemble, ils dessinent un continuum : la surveillance de masse (Snowden), la manipulation de l'information diplomatique et militaire (WikiLeaks), puis la censure politique via les plateformes privées (Twitter Files). Dans les trois cas, les lanceurs d'alerte ont été poursuivis ou emprisonnés. Dans aucun cas les responsables institutionnels n'ont été sanctionnés.
-
----
 
 **Références principales**
 - Greenwald, G. (2014). *No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State*. Metropolitan Books.
@@ -531,8 +525,6 @@ Le détail décisif reste celui de la transmission. Dans l'Univers 25, le dysfon
 Le concept de *mismatch évolutif* formalise ce que l'expérience de Calhoun illustre : nos instincts, façonnés par un environnement ancestral, se comportent de façon dysfonctionnelle dans un environnement radicalement différent. L'obésité est le mismatch évolutif alimentaire classique — notre cerveau récompense fortement la consommation de sucre et de graisses parce qu'ils étaient rares ; dans un environnement d'abondance, ce même circuit produit une addiction. La pornographie est le mismatch évolutif sexuel : notre cerveau récompense l'exposition à des stimuli sexuels nouveaux parce que, dans le contexte ancestral, cela signifiait une opportunité reproductive réelle ; exposé à une offre infinie, ce même circuit produit une déconnexion progressive de la relation réelle.
 
 Le mismatch évolutif social est plus difficile à voir parce qu'il opère sur les structures de groupe, pas sur les individus. Mais il est réel : nos cerveaux sont câblés pour des groupes de 50 à 150 personnes (le "nombre de Dunbar"), avec des hiérarchies de statut connus, des rôles définis, une réciprocité surveillée. Les métropoles de millions d'habitants, les réseaux sociaux à milliards d'utilisateurs, les interactions anonymes à l'échelle industrielle saturent ces circuits au-delà de leur capacité de traitement.
-
----
 
 **Références principales**
 
