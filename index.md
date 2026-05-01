@@ -1073,3 +1073,69 @@ Reconnaître les cultures comme personnes juridiques ne supprime pas les conflit
 **L'affrontement** est inévitable dans certains cas, et vouloir l'éliminer entièrement revient à le refouler — jusqu'à ce qu'il explose sans règles. Mieux vaut l'encadrer. Des arènes politiques d'abord : des forums de débat ouverts où toute opinion peut s'exprimer, sans censure pour "discours de haine", parce que la violence des mots dans un espace dédié vaut infiniment mieux que la violence des corps dans la rue. Des arènes physiques ensuite, pour régler par une violence consentie et contrôlée ce qui ne peut se régler autrement — règles précises, consentement éclairé de tous les participants, encadrement strict. En dehors de ces espaces, la violence reste interdite et gérée par une police impartiale.
 
 Ce cadre ne prétend pas éliminer la tension entre cultures. Il prétend lui donner une forme — ce que toutes les civilisations durables ont fait, chacune à leur manière.
+
+---
+## Pauvreté, criminalité et divergence interprétative
+
+**La question**
+
+Existe-t-il un lien entre pauvreté et criminalité ? Corrélation, causalité, et de quel ordre ? La question paraît simple et pour beaucoup de monde, la pauvreté cause la criminalité. Elle ne l'est pas — non seulement pour des raisons empiriques, mais parce qu'elle révèle une limite plus générale : même lorsque les faits sont relativement bien établis, leur interprétation et leur usage social ne convergent pas nécessairement.
+
+**Ce que les données établissent**
+
+Les travaux empiriques convergent sur l'existence d'une corrélation positive entre pauvreté et criminalité — pour les délits contre les biens, pour certaines formes de violence, et au niveau agrégé des quartiers et des zones géographiques. Cette corrélation est robuste, bien que variable selon les contextes et les méthodes. Les méta-analyses disponibles trouvent une majorité de corrélations positives, d'intensité souvent modérée.
+
+Les enquêtes de délinquance autodéclarée — où les sujets rapportent anonymement leurs propres comportements — dessinent une image plus nuancée : la délinquance mineure est largement distribuée dans toutes les classes sociales, et la relation avec la position sociale y apparaît nettement plus faible. Ces écarts s'expliquent en partie par des **biais de justice** réels. La délinquance des milieux défavorisés est plus visible et publique, donc plus contrôlée et sanctionnée ; celle des milieux aisés est plus privée ou sophistiquée — fraudes, col-blanc —, moins détectée. Ces biais ne suppriment pas les différences observées, mais ils affectent leur mesure et leur interprétation.
+
+**Causalité indéterminée et anti-corrélations**
+
+Que les corrélations soient robustes ne dit rien de leur direction. Rien ne permet de déterminer si c'est la pauvreté qui génère la criminalité, si c'est la criminalité qui appauvrit les quartiers, ou si les deux phénomènes sont co-causés par d'autres variables — densité urbaine, désorganisation sociale, fragilité institutionnelle. Certains faits empiriques confirment du reste que tout modèle linéaire est insuffisant.
+
+La crise de 2008 a doublé le chômage américain et européen — et les taux de criminalité violente et de biens ont continué à baisser, de 8 % pour les vols avec violence et 17 % pour les vols de voiture aux États-Unis. New York a divisé sa criminalité par quatre ou cinq entre 1990 et 2018, sans réduction proportionnelle de sa pauvreté. La Grande Dépression des années 1930 a vu le chômage atteindre 25 % sans que les taux de criminalité n'explosent — avec même une légère baisse après un pic initial. Les zones rurales, souvent plus pauvres que la moyenne nationale, affichent des taux de criminalité nettement plus faibles que les banlieues concentrées : la pauvreté dispersée, encadrée par des réseaux d'interconnaissance et de solidarités locales, ne produit pas les mêmes effets que la pauvreté urbaine anonyme.
+
+Les expériences en conditions contrôlées confirment cette résistance. Les programmes de revenu de base inconditionnel et les dispositifs de déplacement de familles vers des quartiers moins pauvres — évalués selon des protocoles rigoureux — ne produisent pas de baisse significative, générale et durable de la criminalité. Certaines études mesurent un effet positif sur la criminalité de propriété ; la majorité trouve des résultats mixtes ou nuls. Agir directement sur la pauvreté ne suffit pas à agir sur le crime.
+
+Ces éléments ne réfutent pas les corrélations observées, mais ils montrent qu'aucune relation de type "pauvreté → crime" ne suffit à rendre compte de l'ensemble des données.
+
+**La question de la direction causale**
+
+Même si l'on accepte que la corrélation pauvreté-criminalité est réelle et robuste, sa direction causale reste indéterminée — et cela change tout pour les politiques publiques.
+
+Le sens "pauvreté → crime" est le plus souvent posé comme évident : la misère contraindrait certains à enfreindre les règles. Mais le sens inverse est tout aussi plausible : la criminalité appauvrit les quartiers. Les commerces ferment, les investissements se retirent, les ménages qui en ont les moyens partent — et le quartier s'appauvrit non parce que la pauvreté y a précédé le crime, mais parce que le crime en a chassé la richesse. Des effets de troisième variable sont tout aussi crédibles : la désorganisation sociale, la densité excessive ou la fragilité institutionnelle peuvent générer simultanément pauvreté et criminalité sans que l'une cause l'autre. Les trois mécanismes peuvent opérer en parallèle, avec des poids différents selon les contextes.
+
+Cette indétermination n'est pas un détail académique. Elle a des implications directes : cibler la pauvreté pour réduire le crime n'est une stratégie valide que si la causalité va bien dans cette direction — ce que les données disponibles ne permettent pas de confirmer globalement. La même corrélation peut légitimer des politiques opposées selon la direction causale qu'on lui attribue.
+
+**Un débat structuré par des lectures concurrentes**
+
+Depuis des décennies, la criminologie est traversée par des désaccords profonds sur l'explication du crime. Certaines approches mettent l'accent sur les facteurs structurels — inégalités, pauvreté, ségrégation. D'autres insistent sur les facteurs individuels, culturels ou institutionnels. Ces oppositions sont anciennes, structurantes, et persistent non parce que les chercheurs ignoreraient les données de l'autre camp, mais parce qu'ils leur accordent un poids différent.
+
+Prenons deux exemples opposés, fondés sur les même données brutes.
+
+Pour l’extrême droite, les données sont claires : les quartiers défavorisés concentrent les délits de rue, et les expériences prouvent que donner de l'argent (revenu de base) ne résout rien. Face au vide scientifique sur la direction causale — puisque la misère ne suffit pas à expliquer le crime —, l'idéologie comble le trou en invoquant la défaillance culturelle et l'irresponsabilité individuelle. Surtout, comme aucune étude ne peut fournir une définition mathématique de la "gravité" d'un crime, ce discours choisit subjectivement de hiérarchiser les délits : il pose que les violences physiques et les vols de rue sont intrinsèquement plus destructeurs pour le corps social que les fraudes en col blanc, justifiant ainsi une politique axée sur le châtiment de ces individus plutôt que sur la réduction des inégalités.
+
+Pour l’extrême gauche, les mêmes faits dessinent un autre tableau : les chiffres reflètent avant tout des biais judiciaires (la délinquance de rue est hyper-surveillée, contrairement à la fraude économique) et une causalité inversée où la répression appauvrit les quartiers. Face à l'incapacité de la science à isoler une part de responsabilité strictement individuelle des causes structurelles, l'idéologie s'engouffre dans ce vide pour imputer la totalité du phénomène à l'oppression capitaliste. Devant cette même absence de définition objective de la gravité d'un délit, ce discours procède à un nivellement subjectif inverse : il refuse de traiter la délinquance de rue comme un problème en soi, l'assimilant à une simple réaction de survie rendue équivalente, voire moralement secondaire, face aux "vrais" crimes que sont les injures systémiques et les fraudes d'État, vidant ainsi le délinquant de sa responsabilité au profit d'une Victime collective.
+
+Les mêmes données alimentent ainsi des cadres explicatifs concurrents sans que la science ne puisse trancher. Au niveau politique, quatre (ou plus) narratifs cohérents et opposés peuvent se construire à partir des mêmes faits. La droite sécuritaire insiste sur la désorganisation culturelle et familiale dans les quartiers à risque ; la gauche socialiste sur les inégalités structurelles et la justice de classe ; l'extrême gauche sur la répression comme outil d'oppression ; le narratif identitaire sur une incompatibilité avec certaines populations immigrées. Chacun s'appuie sur une partie réelle des données et minimise les faits contraires plutôt qu'il ne les nie. Aucun ne ment entièrement. Aucun ne dit toute la vérité.
+
+**La divergence interprétative**
+
+C'est ici que se situe le point central que ce livre nomme *divergence interprétative*.
+
+Même dans un cadre idéal, sans biais idéologique de la part des chercheurs, une divergence persistante subsisterait. Les données empiriques contraignent les théories sans en imposer une seule — c'est ce que les philosophes des sciences appellent la sous-détermination. Les phénomènes sociaux résultent d'interactions complexes entre variables qui ne se laissent pas démêler proprement. Les désaccords portent moins sur les faits eux-mêmes que sur leur importance relative — et cette pondération n'est pas objective. La criminologie est structurée par des paradigmes concurrents — structurels, culturels, interactionnistes — sans synthèse unique disponible.
+
+Cette situation produit une divergence interprétative durable, même en présence de données abondantes et de bonne qualité. Ce n'est pas un défaut de la science. C'est sa limite normale face aux systèmes sociaux complexes.
+
+**Ce que la science peut et ne peut pas faire**
+
+Il faut distinguer trois niveaux que le débat public confond régulièrement. Les faits : une convergence partielle est possible, et la science y contribue. Les explications : plusieurs modèles coexistent légitimement, et la science peut invalider certaines hypothèses tout en laissant d'autres ouvertes. Les décisions : elles relèvent de choix normatifs que la science ne peut pas faire à la place des sociétés.
+
+La science peut éclairer les mécanismes, préciser les conditions d'efficacité des politiques, invalider certaines affirmations trop simples. Mais elle ne peut pas déterminer ce qui doit être prioritaire, quels arbitrages sont légitimes, quelles valeurs doivent guider l'action collective. Présenter un diagnostic criminel comme scientifiquement tranché pour en tirer une politique judiciaire, c'est franchir cette frontière — et c'est exactement ce que fait la justice à géométrie variable décrite dans ce chapitre.
+
+**Ce que ce cas illustre**
+
+Le lien entre pauvreté et criminalité est un exemple parmi d'autres d'une propriété plus générale : on ne peut pas partir du principe que la science tranchera les questions de société. Elle peut éclairer le débat, parfois fortement — invalider certaines hypothèses, préciser les conditions d'efficacité des mesures —, mais elle ne produit ni interprétation unique ni solution évidente, même dans un cadre idéal sans biais idéologique. La divergence interprétative n'est pas un accident. C'est la règle dans les systèmes complexes.
+
+Ce qui suit en est la conséquence directe : le choix des politiques de gestion de la criminalité est, en dernière instance, un choix culturel. Non par défaut d'information, mais par nature. Décider quels mécanismes prioriser, quelle pondération accorder aux différents faits, quels arbitrages sont légitimes — tout cela engage des valeurs que la science ne peut pas ordonner à la place des sociétés. Prétendre le contraire — présenter une politique judiciaire comme la conséquence logique d'un diagnostic scientifique —, c'est masquer un choix culturel derrière une autorité qu'on lui emprunte sans droit. La divergence interprétative n'appelle pas une science plus parfaite. Elle appelle un cadre institutionnel capable de faire coexister des choix culturels légitimes mais incompatibles.
+
+Ce cadre ne prétend pas éliminer la tension entre cultures. Il prétend lui donner une forme — ce que toutes les civilisations durables ont fait, chacune à leur manière.
+
