@@ -1,3 +1,5 @@
+<!-- ANNEXES — fichier de travail. Ne pas modifier Annexes.md. Ajouter les annexes révisées ici session par session. -->
+
 ## Captologie
 
 **Comment les biais cognitifs deviennent des armes**
@@ -16,7 +18,7 @@ Point important : les algorithmes ne visent pas expressément à attiser la hain
 
 ## Dynamiques collectives
 
-**Deux types d'organisation**
+### Deux types d'organisation
 
 Un mouvement culturel n'est jamais seulement un ensemble d'individus aux opinions similaires. Il est organisé — mais à deux niveaux qu'il faut distinguer soigneusement, car confondre les deux conduit à des erreurs d'analyse aux conséquences politiques importantes.
 
@@ -26,7 +28,7 @@ Le cadre théorique en est l'**hégémonie culturelle gramscienne** — la domin
 
 Cette organisation explicite est réelle et documentable. Mais si on s'arrête là, on rate l'essentiel.
 
-**L'organisation implicite : les couches de Clarke**
+### L'organisation implicite : les couches de Clarke
 
 **L'organisation implicite** est culturelle, émergente, sans coordinateur. Personne ne l'a décidée. Elle surgit des interactions — des milliers de réactions individuelles qui, agrégées, forment un signal collectif. C'est cette couche invisible que le modèle des **couches de Clarke**, tel qu'appliqué par Juan José Miralles Canals dans son analyse des attentats de Madrid (2009), permet de mettre en lumière.
 
@@ -38,7 +40,7 @@ Pour expliquer la propagation et la résilience de ces dynamiques, Miralles Cana
 
 C'est ce mécanisme qui explique la **guerre stochastique** : des actes qui semblent aléatoires, commis par des "loups solitaires" sans instruction directe, mais qui s'inscrivent dans une logique collective statistiquement prévisible. Vu de l'analyse criminelle individuelle : un déséquilibré isolé. Vu du système collectif : l'expression d'un terreau culturel suffisamment dense. Robinson, vu de près, est un cas psychiatrique. Vu de loin, il est un symptôme.
 
-**L'angle mort du paradigme individualiste**
+### L'angle mort du paradigme individualiste
 
 La matrice intellectuelle héritée des Lumières — celle qui structure notre droit pénal, notre éthique publique, notre théorie politique — ne reconnaît que les individus. Un individu qui ne commet pas d'acte est innocent. Le militant qui like est libre de son opinion. Le sondé qui répond "parfois justifié" exerce sa liberté d'expression.
 
@@ -46,7 +48,7 @@ Cette lecture n'est pas fausse — elle est incomplète. Elle ne dispose d'aucun
 
 C'est pourquoi nos sociétés traitent les "loups solitaires" comme des accidents psychiatriques plutôt que comme des symptômes culturels. Et c'est pourquoi nous n'avons aucun outil juridique ou politique pour remonter à la vraie source du phénomène. Le chapitre 9 reviendra sur les limites de la démocratie libérale face à ce problème.
 
-**Nos instincts voient ce que la raison nie**
+### Nos instincts voient ce que la raison nie
 
 Il y a une ironie dans tout cela. Nous, collectivement, avons désappris à voir ce que nos instincts percevaient parfaitement il y a dix mille ans.
 
@@ -59,6 +61,7 @@ Plus fondamentalement, le sociologue Donald Campbell a théorisé la **causalit�
 Nous reviendrons sur ces mécanismes lorsque nous formaliserons le concept d'intelligence collective émergente (Ch. 8). Pour l'heure, retenons ceci : voir Robinson seul, c'est regarder la vague sans voir l'océan.
 
 ---
+
 ## Régimes d'attention partagés
 
 **L'attention comme pont entre individu et culture**
@@ -111,6 +114,7 @@ La culture n'est pas musique et peinture. C'est un système vivant d'attention p
 - Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.
 
 ---
+
 ## Projets de surveillance
 
 **L'arsenal de contrôle numérique**
@@ -145,6 +149,8 @@ Déployé après la crise du COVID sur un modèle partiellement inspiré des exp
 
 Pris séparément, chacun de ces dispositifs se justifie par une intention louable. Ensemble, ils dessinent une architecture cohérente de surveillance et de contrôle — légale, démocratique dans ses formes, mais dont la convergence pose une question fondamentale : qui décide de l'usage de cette infrastructure, et selon quels garde-fous ? Ce n'est pas la question des ingénieurs qui construisent ces systèmes. Mais c'est celle des citoyens qui les subissent — et celle des entrepreneurs qui ont décidé de ne pas les laisser s'installer sans résistance.
 
+---
+
 **Références principales**
 - Règlement DSA (UE) 2022/2065 — *Journal officiel de l'Union européenne*.
 - Proposition Chat Control, COM(2022) 209 final — Commission européenne.
@@ -153,6 +159,7 @@ Pris séparément, chacun de ces dispositifs se justifie par une intention louab
 - CNIL — Rapport sur le Health Data Hub (2020).
 
 ---
+
 ## Cyber-warfare
 
 **Le nouveau champ de bataille numérique**
@@ -179,13 +186,17 @@ Dans ce monde déterritorialisé — potentiellement scindé en deux internets p
 
 La guerre culturelle n'est pas une guerre pour les territoires ni pour les ressources naturelles. C'est une guerre pour l'attention — et pour les architectures qui décident de la distribuer.
 
+---
+
 **Références principales**
 - Nakamoto, S. (2008). *Bitcoin: A Peer-to-Peer Electronic Cash System*.
 - Libicki, M. C. (2009). *Cyberdeterrence and Cyberwar*. RAND Corporation.
 - Simon, H. A. (1971). "Designing Organizations for an Information-Rich World", in Greenberger (ed.), *Computers, Communication, and the Public Interest*. Johns Hopkins Press.
 - Zuboff, S. (2019). *The Age of Surveillance Capitalism*. PublicAffairs.
 
+
 ---
+
 ## Snowden, WikiLeaks et les Twitter Files
 
 **Trois dossiers, une même démonstration**
@@ -216,6 +227,8 @@ Les Twitter Files documentent également la mise en place du *shadowban* — la 
 
 Pris isolément, chacun peut être relativisé. Ensemble, ils dessinent un continuum : la surveillance de masse (Snowden), la manipulation de l'information diplomatique et militaire (WikiLeaks), puis la censure politique via les plateformes privées (Twitter Files). Dans les trois cas, les lanceurs d'alerte ont été poursuivis ou emprisonnés. Dans aucun cas les responsables institutionnels n'ont été sanctionnés.
 
+---
+
 **Références principales**
 - Greenwald, G. (2014). *No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State*. Metropolitan Books.
 - Harding, L. (2014). *The Snowden Files*. Guardian Books/Faber & Faber.
@@ -224,6 +237,7 @@ Pris isolément, chacun peut être relativisé. Ensemble, ils dessinent un conti
 - Fang, L. & Kao, J. (2022). "Internal Twitter Files Show How the Platform Handled the Hunter Biden Story." *The Intercept*.
 
 ---
+
 ## Sciences cognitives et ingénierie du consentement
 
 **Quand la science a livré le mode d'emploi**
@@ -282,6 +296,7 @@ La différence n'est pas de nature. Elle est de puissance.
 - Cadwalladr, C. & Graham-Harrison, E. (2018). "Revealed: 50 million Facebook profiles harvested for Cambridge Analytica in major data breach." *The Guardian*, 17 mars.
 
 ---
+
 ## La pensée de groupe
 
 La pensée de groupe (*groupthink*) a été théorisée par le psychologue Irving Janis en 1972 à partir de l'étude de décisions politiques catastrophiques. Il désigne le phénomène par lequel un groupe fortement soudé priorise l'unanimité et la cohésion interne au détriment de l'analyse critique — avec pour résultat des décisions irrationnelles que chaque membre, individuellement, n'aurait pas prises.
@@ -320,6 +335,7 @@ Le remède que Janis prescrit est symétrique à la pathologie : diversité des 
 - Mounk, Y. (2023). *The Identity Trap: A Story of Ideas and Power in Our Time*. Penguin Press.
 
 ---
+
 ## La norme culturelle comme stratégie de survie
 
 Ce que les sciences sociales nomment "norme culturelle" — l'ensemble des comportements attendus et des pratiques sanctionnées par une culture — n'est pas une construction arbitraire. C'est une réponse évolutive à des problèmes de coordination et de survie collective. Comprendre pourquoi certains comportements sont normalisés et d'autres marginalisés exige de partir non pas des intentions morales de ceux qui édictent ces normes, mais des fonctions qu'elles remplissent pour le groupe.
@@ -371,6 +387,7 @@ Ce n'est pas une stratégie délibérée. C'est la conséquence logique d'une id
 - Buss, D. M. (2019). *Evolutionary Psychology: The New Science of the Mind* (6e éd.). Routledge.
 
 ---
+
 ## Sociologie moderne
 
 **Les fondations idéologiques de la sociologie woke**
@@ -405,6 +422,7 @@ Ces quatre piliers partagent une architecture identique : un postulat idéologiq
 - Open Science Collaboration (2015). "Estimating the reproducibility of psychological science." *Science*, 349(6251).
 
 ---
+
 ## Le culte du cargo égalitaire
 
 **Origine : Mélanésie, années 1940**
@@ -443,6 +461,7 @@ Le wokisme est issu d'un double choc : l'effondrement du marxisme comme grand r�
 - Turchin, P. (2023). *End Times: Elites, Counter-Elites, and the Path of Political Disintegration*. Penguin Press.
 
 ---
+
 ## Le bioléninisme
 
 **Le concept**
@@ -477,6 +496,7 @@ Le bioléninisme décrit une logique structurelle, non une intention collective.
 - Yarvin, C. [Mencius Moldbug]. *Unqualified Reservations* (blog), 2007–2013.
 
 ---
+
 ## Le paradis des rats
 
 En 1968, le biologiste John B. Calhoun inaugure à l'Institut national américain de la santé mentale une expérience qu'il nomme "Univers 25" — la vingt-cinquième tentative d'une série dont toutes les précédentes avaient abouti au même résultat. L'objectif est simple : offrir à une colonie de souris un environnement parfait, puis observer.
@@ -526,6 +546,8 @@ Le concept de *mismatch évolutif* formalise ce que l'expérience de Calhoun ill
 
 Le mismatch évolutif social est plus difficile à voir parce qu'il opère sur les structures de groupe, pas sur les individus. Mais il est réel : nos cerveaux sont câblés pour des groupes de 50 à 150 personnes (le "nombre de Dunbar"), avec des hiérarchies de statut connus, des rôles définis, une réciprocité surveillée. Les métropoles de millions d'habitants, les réseaux sociaux à milliards d'utilisateurs, les interactions anonymes à l'échelle industrielle saturent ces circuits au-delà de leur capacité de traitement.
 
+---
+
 **Références principales**
 
 - Calhoun, J. B. (1962). Population density and social pathology. *Scientific American*, 206(2), 139–148.
@@ -535,6 +557,7 @@ Le mismatch évolutif social est plus difficile à voir parce qu'il opère sur l
 - Lieberman, D. E. (2013). *The Story of the Human Body: Evolution, Health, and Disease*. Pantheon Books.
 
 ---
+
 ## La stérilisation ou contraception sociale
 
 Le mismatch évolutif prend des formes multiples dans les sociétés contemporaines. L'une des moins visibles — parce qu'elle opère à travers des mécanismes économiques, pas biologiques — est ce que l'on peut appeler la stérilisation sociale : la suppression ou le report massif de la reproduction, non par choix délibéré, mais par impossibilité structurelle créée par l'environnement.
@@ -563,6 +586,7 @@ Il faut noter la convergence avec le mismatch évolutif : la stérilisation soci
 - Sapolsky, R. M. (2005). The influence of social hierarchy on primate health. *Science*.
 
 ---
+
 ## Sciences cognitives et obsolescence de la raison individuelle
 
 **L'axiome que personne n'a vérifié**
@@ -634,9 +658,10 @@ La prochaine architecture institutionnelle ne pourra pas se fonder sur le même 
 - Henrich, J. (2016). *The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter*. Princeton University Press.
 
 ---
+
 ## La bureaucrature
 
-**Un œuf dans le nid de la démocratie**
+### Un œuf dans le nid de la démocratie
 
 Imaginez un maire fraîchement élu dans une ville moyenne. Il acquiert un terrain inconstructible à prix modeste. Quelques mois plus tard, en révisant le Plan Local d'Urbanisme, il rend ce terrain constructible. La valeur explose. Il empoche une plus-value substantielle. Rien d'illégal : il s'est abstenu de voter personnellement, mais a orienté les débats via des proches bien placés. Pas de corruption flagrante. Juste une exploitation astucieuse des marges d'interprétation.
 
@@ -646,7 +671,7 @@ Ces deux scènes n'ont rien d'exceptionnel. Elles illustrent un phénomène que 
 
 ---
 
-**Le grand jeu du vivant : le parasitisme comme stratégie**
+### Le grand jeu du vivant : le parasitisme comme stratégie
 
 Dans le monde vivant, environ la moitié des espèces sont parasitaires ou hébergent des parasites. Le parasitisme n'est pas une aberration — c'est l'une des stratégies évolutives les plus efficaces qui soient. Le parasite ne cherche pas à tuer son hôte : il cherche à s'en nourrir le plus longtemps possible. Sa survie dépend de celle de l'hôte. Pour durer, il dispose d'une arme principale : **brouiller les signaux**.
 
@@ -660,7 +685,7 @@ Ces trois stratégies forment un escalier : imitation (le coucou imite l'œuf), 
 
 ---
 
-**La traduction sociale : les mêmes mécanismes chez l'humain**
+### La traduction sociale : les mêmes mécanismes chez l'humain
 
 Chez les humains, le parasitisme social n'est pas nouveau. Dans les groupes de moins de 150 personnes — la limite de Dunbar — tout le monde se connaît. La réputation, le commérage et la réciprocité suffisent à le réguler : un tricheur est vite repéré et ostracisé. Le groupe fonctionne comme son propre système immunitaire.
 
@@ -670,7 +695,7 @@ Il n'a pas besoin de force brute. En théorie des jeux, pour l'emporter, on peut
 
 ---
 
-**Les quatre mécanismes du parasite social**
+### Les quatre mécanismes du parasite social
 
 **1. L'imitation des vertus morales**
 
@@ -694,7 +719,7 @@ C'est le mécanisme le plus dangereux — le toxoplasma du social. Il est toujou
 
 ---
 
-**L'asymétrie de la preuve**
+### L'asymétrie de la preuve
 
 Le nœud du problème est là : le parasitisme bureaucratique est visible au niveau macro et insaisissable au niveau micro.
 
@@ -704,7 +729,7 @@ C'est pourquoi les honnêtes gens ne voient jamais le tableau d'ensemble. Ils vi
 
 ---
 
-**Les cultures vivaces comme anticorps**
+### Les cultures vivaces comme anticorps
 
 La bureaucrature n'est pas également distribuée. Elle prospère là où les individus sont isolés, là où les circuits courts de solidarité ont été détruits, là où personne ne peut réguler personne parce que personne ne se connaît assez pour le faire.
 
@@ -716,7 +741,7 @@ L'État social, dans ses formes les plus avancées, accomplit paradoxalement ce 
 
 ---
 
-**Les penseurs qui ont vu venir le parasite**
+### Les penseurs qui ont vu venir le parasite
 
 Ce phénomène n'est pas nouveau. Une longue tradition intellectuelle, venue de disciplines différentes, a modélisé le même glissement : les organisations conçues pour servir finissent par se servir.
 
@@ -744,7 +769,7 @@ Tous ces auteurs convergent : la bureaucrature émerge des incitatifs, pas d'un 
 
 ---
 
-**Si on laisse le parasite se développer**
+### Si on laisse le parasite se développer
 
 Sans anticorps — culturels, institutionnels, ou les deux — la trajectoire est documentée.
 
@@ -769,7 +794,10 @@ Historiquement : l'Empire romain tardif avec sa bureaucratie fiscale hypertrophi
 - Yarvin, C. [Moldbug] (2007–2013). *Unqualified Reservations*. mencius-moldbug.blogspot.com.
 
 ---
+
 ## Langage et contrôle cognitif
+
+*(Annexe associée à Ch. 10 — La ressource humaine)*
 
 George Orwell publie *Politics and the English Language* en 1946, un an après la fin de la guerre, dans un contexte où la propagande nazie et stalinienne a démontré l'efficacité du langage comme arme de contrôle de masse. Son argument est précis et dérangeant : la dégradation du langage politique n'est pas un effet secondaire de la malhonnêteté — c'est son instrument principal. *"La grande ennemie du langage clair, c'est le manque de sincérité. Quand il y a un écart entre les buts réels et les buts déclarés, on se retourne instinctivement vers les mots longs et les formules usées."*
 
@@ -793,7 +821,10 @@ Ces trois mécanismes — cadrage, euphémisme, effacement du sujet — forment 
 - Lukes, S. (1974). *Power: A Radical View*. Macmillan.
 
 ---
+
 ## L'État comme éleveur : Scott, de Jouvenel
+
+*(Annexe associée à Ch. 10 — La ressource humaine)*
 
 L'image de l'État comme éleveur de ses propres citoyens n'est pas une métaphore provocatrice — c'est une description documentée de la logique des premiers États, et plus largement de l'État westphalien dans sa maturité.
 
@@ -829,6 +860,8 @@ Ce n'est pas une conspiration. C'est une logique d'optimisation : un système qu
 
 ## Anomie et quête de communauté : Durkheim, Nisbet
 
+*(Annexe associée à Ch. 10 — La ressource humaine)*
+
 La sociologie du XIXe et du début du XXe siècle a produit, sur la désintégration des communautés et ses conséquences, des analyses d'une précision qui n'a pas vieilli. Deux auteurs sont ici centraux.
 
 **Durkheim et l'anomie**
@@ -862,11 +895,12 @@ Les réponses identitaires qui prolifèrent aujourd'hui — nationalismes, wokis
 - Putnam, R. D. (2000). *Bowling Alone: The Collapse and Revival of American Community*. Simon & Schuster.
 
 ---
+
 ## Ethnogénèse
 
 *De la thermodynamique à l'identité collective : un processus universel*
 
-**L'ordre émerge de la répétition**
+### L'ordre émerge de la répétition
 
 Avant d'être un phénomène social, l'ethnogénèse est un phénomène physique. Pour le comprendre, il faut commencer par une vérité contre-intuitive : l'ordre ne s'oppose pas à l'entropie. Il en est le produit local.
 
@@ -884,7 +918,7 @@ Karl Friston a formalisé ce principe sous le nom de **minimisation de l'énergi
 
 Ce principe est universel. Il fonctionne de la même façon à toutes les échelles du vivant.
 
-**Le même processus, de la bactérie au peuple**
+### Le même processus, de la bactérie au peuple
 
 **Les biofilms bactériens.** Une bactérie isolée nage dans son milieu, cherche des nutriments, subit les aléas de l'environnement en solitaire. À haute densité, les bactéries commencent à sécréter des molécules de signalisation — le *quorum sensing* — et lorsque leur concentration dépasse un seuil, l'ensemble de la colonie bascule collectivement dans un nouveau mode. Les cellules s'agrègent, sécrètent une matrice protectrice commune, se spécialisent : cellules périphériques plus résistantes, cellules intérieures productrices de ressources. Le biofilm résiste aux antibiotiques jusqu'à mille fois mieux qu'une cellule isolée. Aucune bactérie n'a "décidé" cette organisation. Elle est émergée parce qu'elle économise de l'énergie : la matrice commune remplace le travail individuel de protection de chaque cellule.
 
@@ -894,7 +928,27 @@ Ce principe est universel. Il fonctionne de la même façon à toutes les échel
 
 **Les cultures humaines.** Le même mécanisme, avec le langage, la mémoire collective et la transmission culturelle comme substrat additionnel. Une norme partagée — "on salue de cette façon", "on ne tue pas les membres du groupe" — est une prédiction cristallisée : elle remplace la négociation coûteuse de chaque interaction par un comportement automatisé. Un rituel est une séquence de prédictions coordonnées. Une institution est un réseau de normes interdépendantes. La différence entre les humains et les fourmis n'est pas dans le mécanisme — c'est dans la richesse du substrat. Le langage permet de transmettre des prédictions abstraites ("ne mens pas", "honore tes ancêtres", "la liberté est sacrée") qui encodent des millions d'interactions sans que chacune ait besoin d'être vécue individuellement. C'est le "cerveau collectif" de Henrich : une culture est un calculateur distribué dont chaque norme est une solution compilée à un problème récurrent, disponible sans recalcul.
 
-**Les cinq étapes du gradient**
+### Cognition distribuée : l'intelligence n'est pas dans le cerveau
+
+La section précédente a montré que le même mécanisme thermodynamique produit des structures collectives à toutes les échelles biologiques. Mais il ne produit pas seulement des structures. Il produit de la **cognition**.
+
+La cognition, au sens fonctionnel, désigne la capacité d'un système à traiter de l'information pour résoudre des problèmes de façon adaptative — d'une façon qui n'est pas réductible à la somme des comportements de ses composants. Définie ainsi, la cognition n'est pas une propriété exclusive des cerveaux. C'est une propriété émergente de tout système organisé qui traite de l'information de façon distribuée.
+
+Les travaux de **Michael Levin** (Tufts University) en apportent la démonstration la plus convaincante à l'échelle biologique. Levin étudie la **cognition bioélectrique** — la façon dont des réseaux de cellules traitent de l'information via des gradients électriques, sans neurones, sans cerveau. Ses résultats sont frappants.
+
+Les planaires (vers plats) sont capables de régénérer leur corps après décapitation complète, y compris leur cerveau. Ce qui est remarquable, c'est que la tête régénérée "se souvient" de comportements appris par le ver original avant l'amputation — ce qui implique que la mémoire n'était pas uniquement stockée dans le tissu neuronal. L'information était distribuée dans les champs bioélectriques du corps entier. Des cellules cancéreuses, soumises à des signaux bioélectriques collectifs appropriés provenant du tissu environnant, peuvent être "reprogrammées" pour revenir à un comportement normal — sans modification génétique. C'est la dynamique collective du tissu, non les gènes individuels, qui détermine le comportement cellulaire.
+
+Levin a également produit des *xénobots* : des organismes construits en regroupant des cellules épidermiques de grenouilles dans de nouvelles configurations géométriques. Ces assemblages de cellules affichent spontanément des comportements collectifs nouveaux — locomotion dirigée, regroupement des débris — qui n'étaient programmés dans aucune des cellules individuelles. La cognition a émergé de l'organisation, pas des composants.
+
+La conclusion de Levin est formulée explicitement : la cognition est **invariante avec l'échelle** (*scale-free* dans la littérature) — elle opère de la même façon à toutes les échelles biologiques, de la cellule individuelle à l'organisme multicellulaire, sans qu'aucune échelle ne soit "plus cognitive" que les autres. La conscience humaine est un cas particulier d'un phénomène beaucoup plus général.
+
+Cette démonstration rejoint et complète celle de Krakauer sur la computation sociale. Krakauer montre que les cultures calculent des solutions à des problèmes collectifs de façon distribuée, sans coordinateur central. Levin montre que ce mécanisme est universel dans le vivant. L'argument devient alors cohérent : si nous acceptons que des cellules individuelles traitent de l'information de façon cognitive, et que notre propre cerveau est une intelligence émergente de milliards de neurones, refuser d'admettre que des millions d'individus en interaction peuvent produire une intelligence collective émergente n'est pas une position défendable scientifiquement. C'est un préjugé d'échelle.
+
+Un exemple additionnel de cognition distribuée mérite mention, avec une précaution : les **réseaux mycorhiziens** connectant les arbres d'une forêt transmettent des nutriments et des signaux chimiques sur des kilomètres — ressources en excès d'un arbre vers un arbre déficient, signaux d'alerte en cas d'attaque de parasites (Simard et al., 1997). Il n'est pas certain que ce réseau "pense" au sens fonctionnel défini par Levin pour les cellules — la prudence s'impose sur l'usage du mot "cognition" ici. Mais il satisfait les critères minimaux d'un traitement d'information adaptatif à l'échelle du système, sans centre ni coordinateur. Le mécanisme est le même ; la complexité est moindre.
+
+Le point essentiel : l'émergence de la cognition à l'échelle culturelle n'est pas un phénomène mystérieux qui violerait les lois de la biologie. C'est la répétition, à l'échelle des groupes humains, d'un mécanisme que la biologie produit à toutes les autres échelles. Ce qui est surprenant, c'est que nous ayons mis si longtemps à le reconnaître — et que le cadre humaniste des Lumières, centré sur la raison individuelle, nous ait si durablement aveuglés à cette évidence.
+
+### Les six étapes du gradient
 
 L'émergence d'une identité collective suit un gradient, passant d'un agrégat lâche à une structure intégrée. Inspiré de la biologie évolutionniste et des modèles non linéaires, ce processus peut être décomposé en étapes cumulatives — avec des risques de régression en cas de perturbations (conflits, dispersions, dissolution forcée). Il s'observe dans les biofilms, les colonies d'insectes, les sociétés de primates et les cultures humaines.
 
@@ -932,7 +986,7 @@ Thermodynamiquement, la mémoire collective est un dispositif de compression : e
 
 Ce processus peut régresser. Une culture dont les frontières sont effacées (étape 5) perd sa capacité à former et transmettre sa mémoire (étape 6). Une culture dont les mécanismes de transmission sont détruits (étape 4) voit sa mémoire s'appauvrir puis se dissoudre. C'est précisément la trajectoire des cultures que la bureaucrature atomise : en substituant la solidarité institutionnelle aux solidarités de proximité, elle supprime les étapes 3 et 4, fragilise la frontière à l'étape 5, et finit par vider la mémoire à l'étape 6 — laissant des agrégats d'individus sans structure collective durable, et donc dépendants de l'institution qui a organisé leur dissolution.
 
-**Le débat sur l'autopoïèse sociale**
+### Le débat sur l'autopoïèse sociale
 
 L'idée que les systèmes sociaux peuvent être autopoïétiques — capables de se reproduire eux-mêmes — est une position théorique sérieuse mais contestée.
 
@@ -942,7 +996,7 @@ Les critiques sont importantes. Maturana lui-même a contesté l'extension de so
 
 Ce livre prend parti : les entités culturelles atteignant le niveau 4 présentent tous les traits fonctionnels de l'autopoïèse — reproduction, clôture opérationnelle relative, résistance aux perturbations externes, génération interne de normes — même si la clôture n'est jamais totale. Krakauer fournit la démonstration empirique : la computation sociale des entités de fusion-fission persistantes génère des comportements collectifs irréductibles aux comportements individuels qui les composent, mesurables, stables, et transmissibles. Le débat philosophique reste ouvert. Les phénomènes qu'il décrit sont réels.
 
-**Gumilev et la passionarité (avec précaution)**
+### Gumilev et la passionarité (avec précaution)
 
 Lev Gumilev, géographe et ethnologue russe (1912–1992), a développé une théorie de l'ethnogénèse fondée sur le concept de *passionarité* — une énergie biochimique particulière qui, selon lui, est inégalement distribuée dans les populations humaines. Les individus passionnaires auraient une capacité disproportionnée à créer et à transformer les cultures ; leur concentration dans une population déclencherait les phases d'expansion de l'ethnogénèse.
 
@@ -952,7 +1006,7 @@ D'abord, la base biochimique de la passionarité n'a jamais été démontrée et
 
 Pour ce livre, la contribution utile de Gumilev est la démonstration que l'ethnogénèse a des phases dynamiques et qu'une entité culturelle peut régresser depuis les niveaux supérieurs vers les niveaux inférieurs sous certaines conditions — ce que son modèle de "dépassement" (*perekhod*) et de déclin décrit avec une certaine précision.
 
-**La frontière comme peau du collectif**
+### La frontière comme peau du collectif
 
 Un mécanisme central de l'ethnogénèse est l'émergence de frontières. Non les frontières politiques tracées par des traités, mais les frontières symboliques qui encodent l'identité sur leur surface — ce que Karl Friston appellerait des "couvertures de Markov" à l'échelle culturelle.
 
@@ -960,7 +1014,33 @@ Ces frontières remplissent trois fonctions. Elles *distinguent* l'intérieur de
 
 Sans frontières, la computation sociale se dissout dans l'environnement. Une culture sans frontières cesse d'être une entité distincte. C'est pourquoi les attaques contre les frontières culturelles — qu'elles viennent de l'universalisme abstrait ou de la politique délibérée de dissolution — sont structurellement létales pour l'entité, indépendamment des intentions de ceux qui les conduisent.
 
-**Références principales**
+### Ce qu'influencer signifie : le nudge collectif
+
+L'argument développé dans cette annexe soulève une objection légitime : si les cultures sont des intelligences collectives avec leur propre logique, si elles "calculent" des solutions et les transmettent, si elles "recrutent", "punissent" et "défendent leurs frontières" — est-ce à dire qu'elles *décident à notre place* ?
+
+La réponse est non. Et cette précision est essentielle pour éviter deux erreurs symétriques : le complotisme (quelqu'un décide pour nous) et le déterminisme culturel (nous n'avons aucun choix). Les deux sont faux, et l'un comme l'autre paralysent l'analyse.
+
+**Ce que les cultures font réellement, c'est modifier la topographie du choix.**
+
+Les économistes comportementalistes Richard Thaler et Cass Sunstein ont développé le concept de **nudge** — littéralement "coup de coude" — pour désigner une modification de l'architecture du choix qui infléchit les comportements collectifs sans contraindre les individus. L'exemple canonique : placer les fruits à hauteur des yeux dans une cafétéria augmente leur consommation de 25 à 30 % sans obliger personne. Personne n'a reçu d'ordre. Personne n'a été puni. L'espace a simplement rendu un choix plus saillant, plus immédiatement disponible. La distribution collective des comportements s'en trouve profondément modifiée sans que la liberté individuelle de choix ait été formellement supprimée.
+
+Les intelligences collectives culturelles opèrent exactement de même, mais à l'échelle des valeurs, des statuts et des normes sociales. Elles ne décident pas. Elles modifient la topographie dans laquelle les individus décident.
+
+On peut distinguer trois niveaux d'influence, du plus conscient au plus opaque :
+
+**Niveau 1 — Pression sociale directe.** Un individu ou un groupe fait explicitement savoir ce qu'il pense d'un comportement. Conscient, local, réversible. Il est possible d'y résister délibérément. L'excommunication déclarée, le reproche formulé, la réputation explicitement attaquée : ce niveau est visible, donc contestable.
+
+**Niveau 2 — Architecture du choix.** L'environnement social rend certains choix plus visibles, plus désirables, plus faciles, et d'autres socialement coûteux — honte, exclusion, perte de statut — sans que la pression soit jamais formulée. Semi-conscient, diffus, cumulatif. La résistance est possible mais coûteuse, parce que le coût n'est jamais clairement attaché à une décision de quiconque. C'est le niveau du nudge au sens propre : l'architecture décide avant la délibération.
+
+**Niveau 3 — Pré-cadrage des catégories.** Le langage et les récits culturels orientent la pensée *avant* que la délibération commence, en définissant quelles questions sont légitimes, quelles comparaisons sont imaginables, quels groupes existent comme entités cohérentes. Pré-conscient, structurel. Résister à ce niveau requiert un effort métacognitif rare — il faut d'abord percevoir le cadre pour pouvoir le questionner, ce qui est précisément ce que le cadre rend difficile. George Lakoff et Geoffrey Goffman ont documenté ce mécanisme en linguistique et en sociologie : les mots ne décrivent pas la réalité, ils la configurent pour ceux qui les utilisent.
+
+Les intelligences collectives culturelles opèrent principalement aux niveaux 2 et 3. C'est ce qui les rend à la fois puissantes et invisibles : leur influence ne se manifeste pas sous forme d'ordres, mais sous forme de pentes. On ne perçoit pas la pente quand on est dessus — on croit délibérer librement, et on délibère en effet librement, dans un terrain qui incline statistiquement vers certains choix.
+
+Cette précision a une conséquence directe pour la compréhension de la guerre culturelle. Les individus qui portent un récit culturel ne sont pas des marionnettes — ils délibèrent, ils choisissent, ils peuvent résister. Mais leur délibération se déroule dans un paysage de choix configuré par l'entité à laquelle ils appartiennent. Ils "choisissent librement" ce que cette entité leur a rendu désirable, accessible, honorable. Attribuer leur comportement uniquement à leur volonté individuelle revient à attribuer le sens d'un courant uniquement à la molécule d'eau qui l'emprunte — en ignorant la pente qui le détermine.
+
+C'est pourquoi la réponse aux guerres culturelles ne peut pas être individuelle. Changer les individus un par un n'affecte pas la pente. C'est la topographie institutionnelle qui doit changer — et c'est précisément ce que la proposition de la "personne culturelle" vise à accomplir.
+
+### Références principales
 
 **Thermodynamique et structures dissipatives**
 - Prigogine, I. & Stengers, I. (1979). *La Nouvelle Alliance : métamorphose de la science*. Gallimard. [trad. *Order Out of Chaos*, 1984]
@@ -973,11 +1053,22 @@ Sans frontières, la computation sociale se dissout dans l'environnement. Une cu
 - Henrich, J. (2016). *The Secret of Our Success*. Princeton University Press.
 - Anderson, P. W. (1972). More Is Different. *Science*, 177(4047), 393–396.
 
+**Cognition distribuée et cognition multi-échelle**
+- Levin, M. & Martyniuk, C. J. (2018). The Bioelectric Code: An Ancient Computational Medium for Dynamic Control of Growth and Form. *Biosystems*, 164, 76–93.
+- Levin, M. (2019). The Computational Boundary of a "Self": Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition. *Frontiers in Psychology*, 10, 2688.
+- Levin, M. et al. (2021). Planarian Regeneration as a Model of Anatomical Homeostasis. *Seminars in Cell & Developmental Biology*, 87, 71–87.
+- Simard, S. W. et al. (1997). Net Transfer of Carbon Between Ectomycorrhizal Tree Species in the Field. *Nature*, 388, 579–582. [réseaux mycorhiziens]
+
 **Biologie comparative (biofilms, coraux, insectes)**
 - Costerton, J. W. et al. (1995). Microbial Biofilms. *Annual Review of Microbiology*, 49, 711–745.
 - Bassler, B. L. & Losick, R. (2006). Bacterially Speaking. *Cell*, 125(2), 237–246. [quorum sensing]
 - Wilson, E. O. (1971). *The Insect Societies*. Belknap Press.
 - Otte, M. et al. (2020). Coral Collective Behavior and Colony-level Adaptation. *Current Biology*, 30(4), R155–R157.
+
+**Nudge et architecture du choix**
+- Thaler, R. H. & Sunstein, C. R. (2008). *Nudge: Improving Decisions about Health, Wealth, and Happiness*. Yale University Press.
+- Lakoff, G. (2004). *Don't Think of an Elephant! Know Your Values and Frame the Debate*. Chelsea Green.
+- Goffman, E. (1974). *Frame Analysis: An Essay on the Organization of Experience*. Harvard University Press.
 
 **Autopoïèse et systèmes sociaux**
 - Maturana, H. & Varela, F. (1980). *Autopoiesis and Cognition: The Realization of the Living*. Reidel.
@@ -987,18 +1078,20 @@ Sans frontières, la computation sociale se dissout dans l'environnement. Une cu
 **Ethnogénèse et cycles civilisationnels**
 - Gumilev, L. (1990). *Ethnogenesis and the Biosphere of Earth*. Progress Publishers.
 
+
 ---
-## Le singe parlant et la cyber-société
+
+## Le cyber-singe parlant
 
 *Six millions d'années de compétition intergroupe, de la savane africaine aux algorithmes*
 
-**L'ancêtre commun**
+### L'ancêtre commun
 
 Il y a six millions d'années, sur les berges des forêts africaines, un primate arboricole et territorial était l'ancêtre commun des chimpanzés, des bonobos et des humains d'aujourd'hui. Nous le savons par la génétique comparative, la paléoanthropologie, et l'observation des espèces actuelles qui nous en sont les plus proches. Ce que nous savons moins — ou que nous préférons oublier — c'est que cet ancêtre ne s'est pas volatilisé. Ses comportements fondamentaux ont traversé six millions d'années d'évolution presque intacts.
 
 Nous sommes ce primate, avec un cortex préfrontal en plus et des outils culturels extraordinairement complexes. Ces outils changent tout à la surface. Ils ne changent pas grand-chose en profondeur.
 
-**La dynamique de groupe au Paléolithique**
+### La dynamique de groupe au Paléolithique
 
 Dès l'origine, les groupes humains fonctionnaient en bandes de vingt à cinquante individus liées par la parenté. La hiérarchie s'établissait par des alliances, des démonstrations de force, et des échanges d'exogamie (le déplacement des femelles à la puberté pour éviter la consanguinité). Les affrontements entre groupes étaient directs et brutaux : raids pour le territoire, capture de femelles, élimination des mâles concurrents — comme l'a documenté Jane Goodall chez les chimpanzés actuels.
 
@@ -1006,7 +1099,7 @@ Le fondement de ces conflits était simple : le contrôle des ressources vitales
 
 Ce qui distinguait déjà les humains des autres primates, c'est la *computation sociale* — un calcul collectif instinctif qui permettait de former des alliances fluides au sein de sous-groupes de fusion-fission, optimisant l'accès aux ressources sans coordinateur central.
 
-**L'accélération néolithique**
+### L'accélération néolithique
 
 La Révolution Néolithique, il y a douze mille ans, a changé l'échelle sans changer le mécanisme. L'agriculture et l'élevage ont fixé les humains au sol, multiplié les densités de population, et créé des surplus — donc des inégalités. Les bandes de vingt individus sont devenues des villages, des cités, des empires.
 
@@ -1016,7 +1109,7 @@ Les habitudes ont évolué en conventions. Les conventions se sont cristallisée
 
 Comme le résume Joseph Henrich dans *The Secret of Our Success*, l'intelligence collective humaine dépasse celle des autres espèces non par un instinct individuel supérieur, mais par une culture cumulative : un "cerveau collectif" où les frontières protègent l'intelligence partagée, permettant à chaque génération de transmettre et d'accumuler des solutions à des problèmes que nul individu n'aurait pu résoudre seul. Ce cerveau collectif est la culture. Ses frontières sont les identités.
 
-**L'arène numérique**
+### L'arène numérique
 
 Avec la Révolution Digitale, la mécanique de base n'a pas changé. Ce qui a changé, c'est la nature de la ressource contestée et la vitesse de la compétition.
 
@@ -1028,7 +1121,7 @@ Les instincts de coalition (rejoindre les gagnants), de signalement de statut (m
 
 La "jungle 2.0" n'est pas une métaphore. C'est le même jeu, avec des pions différents. Les algorithmes sont les nouveaux gardiens des ressources : ils décident de la visibilité, donc de l'accès à l'attention, donc du statut, donc — en cascade — de la capacité à recruter, à se reproduire culturellement, à survivre en tant qu'entité.
 
-**Les deux stratégies évolutives**
+### Les deux stratégies évolutives
 
 Derrière les grandes fractures politiques — gauche/droite, progressistes/conservateurs, universalistes/particularistes — se cachent deux stratégies évolutives héritées de nos ancêtres primates.
 
@@ -1038,7 +1131,9 @@ Ces deux stratégies coexistent dans l'espèce humaine. Le psychologue Jonathan 
 
 Ni l'une ni l'autre de ces stratégies n'est "mauvaise". Elles sont des adaptations à des environnements différents. Leur conflit apparent dans les sociétés modernes reflète le fait que ces environnements coexistent désormais dans le même espace digital : l'abondance et la pénurie, la sécurité et la menace, la mobilité et l'enracinement, selon les individus et les contextes.
 
-**Ce que le numérique révèle, ce qu'il amplifie**
+> 📎 **Pour aller plus loin** : voir Annexe — Stratégies évolutives r/K
+
+### Ce que le numérique révèle, ce qu'il amplifie
 
 Le numérique ne crée pas de nouvelles pulsions. Il les révèle et les amplifie.
 
@@ -1048,7 +1143,7 @@ Le résultat est une accélération de l'ethnogénèse pour les cultures adapté
 
 Nous sommes des singes dans une jungle algorithmique. Reconnaître cela n'est pas une insulte — c'est la condition de ne pas en être la proie.
 
-**Références principales**
+### Références principales
 
 - Henrich, J. (2016). *The Secret of Our Success*. Princeton University Press.
 - Haidt, J. (2012). *The Righteous Mind: Why Good People Are Divided by Politics and Religion*. Pantheon Books.
@@ -1059,12 +1154,122 @@ Nous sommes des singes dans une jungle algorithmique. Reconnaître cela n'est pa
 - Simon, H. A. (1971). Designing Organizations for an Information-Rich World. In *Computers, Communications, and the Public Interest*. Johns Hopkins University Press.
 - Dehaene, S. (2014). *Le Code de la conscience*. Odile Jacob.
 
+
 ---
+
+## La falsification des préférences
+
+**Pourquoi une culture peut paraître unanime la veille du jour où elle se brise**
+
+Une culture tient debout parce que ses membres, le plus souvent, font et disent ce qu'on attend d'eux — non parce qu'ils y croient toujours, mais parce qu'il serait coûteux de faire autrement. Ce ressort discret a un nom, et toute une littérature.
+
+### Le mécanisme : Timur Kuran
+
+En 1995, l'économiste Timur Kuran publie *Private Truths, Public Lies*. Sa thèse tient en une formule : nous exprimons en public une préférence différente de celle que nous éprouvons en privé, dès que le coût social de dire le vrai dépasse ce que nous sommes prêts à payer. C'est la **falsification des préférences**.
+
+Le geste est banal — approuver mollement une opinion qu'on désapprouve, se taire quand on devrait objecter, applaudir pour ne pas être le seul à ne pas applaudir. Mais ses conséquences agrégées sont massives. Kuran en relève trois.
+
+D'abord, la falsification **appauvrit la connaissance publique** : si chacun ment sur ce qu'il pense, personne ne sait plus ce que pense réellement le groupe. La distribution des opinions devient illisible — pour les dirigeants comme pour les individus eux-mêmes, qui se croient minoritaires sans pouvoir le vérifier.
+
+Ensuite, elle **fige des structures impopulaires** bien au-delà de leur légitimité réelle. Un ordre que personne n'approuve sincèrement peut perdurer des décennies, simplement parce que chacun croit être le seul à en douter.
+
+Enfin — et c'est le plus contre-intuitif — elle rend le changement social **brutal et imprévisible**. Tant que la falsification masque les préférences réelles, rien ne bouge ; puis un seuil est franchi, et tout bascule d'un coup.
+
+### La spirale du silence : Elisabeth Noelle-Neumann
+
+Le mécanisme par lequel la falsification s'auto-entretient a été décrit dès les années 1970 par la sociologue allemande Elisabeth Noelle-Neumann, sous le nom de **spirale du silence**. Son intuition : l'être humain dispose d'une sorte d'organe quasi sensoriel qui sonde en permanence le climat d'opinion, parce qu'il redoute par-dessus tout l'isolement social. Quand un individu perçoit que son opinion est minoritaire — ou en perte de vitesse —, il se tait. Ce silence rend l'opinion adverse plus audible encore, ce qui pousse d'autres dissidents à se taire à leur tour. La spirale se referme : une opinion peut devenir publiquement dominante alors même qu'elle reste privément minoritaire.
+
+Il faut écarter ici un contresens fréquent. Le silence n'est pas, d'abord, une politesse — une autocensure destinée à ménager autrui. Il s'apprend par l'exemple : on observe ce qui arrive à ceux qui parlent, et on en tire la leçon. Le coût de la dissidence n'est pas fantasmé, il est constaté, puis anticipé. La métaphore est cruelle mais juste : un champ où le premier qui se lève est abattu, puis le deuxième, puis le troisième — très vite, plus personne ne se lève. Pas par accord : par apprentissage de la peur. Et ce coût varie énormément selon le régime et le moment. Sous une dictature, ou dans une crise où les camps se durcissent, il peut aller jusqu'à la prison, la ruine ou la mort — et la spirale devient un silence de plomb. C'est pourquoi le silence apparent d'une population ne mesure jamais son consensus : il mesure le prix qu'elle paierait à le rompre.
+
+Les médias de masse, en donnant à voir un « climat » majoritaire, accélèrent la spirale ; les réseaux sociaux l'ont rendue fulgurante, en rendant la sanction du dissident immédiate, publique et disproportionnée. Une *shitstorm* peut détruire en une nuit une réputation construite en trente ans, sous les yeux de milliers de témoins qui en retiennent l'avertissement. Plus le coût de la dissidence est visible, plus la falsification s'étend.
+
+### La cascade de préférences
+
+Reste à expliquer le basculement. Kuran modélise chaque individu par un **seuil** propre : le niveau de soutien visible à partir duquel il cesse de falsifier et exprime enfin sa préférence réelle. Ces seuils sont distribués et cachés. Tant que personne ne parle, personne ne sait combien d'autres n'attendent qu'un signal. Mais qu'un premier transfuge, au seuil le plus bas, prenne la parole, et il fait basculer celui dont le seuil était juste au-dessus ; lequel entraîne le suivant. Le silence cède en chaîne : c'est la **cascade de préférences**.
+
+C'est ce qui rend les effondrements de régime si surprenants, y compris pour les services de renseignement qui les surveillaient : ils lisaient des signaux falsifiés. En 1989, l'Union soviétique et le bloc de l'Est ne se sont pas effondrés parce que les opposants étaient soudain devenus nombreux — ils l'étaient depuis longtemps — mais parce qu'ils ont soudain cessé de se croire seuls. Kuran a généralisé ce schéma aux révolutions « imprévisibles » ; avec le juriste Cass Sunstein, il l'a étendu aux *availability cascades*, ces emballements collectifs où une idée se propage moins par sa vérité que par sa disponibilité croissante dans l'espace public.
+
+### Un mécanisme ancien et très répandu dans le vivant
+
+La falsification des préférences n'est ni une perversité moderne, ni même un trait spécifiquement humain. C'est la version *équipée du langage* d'un dispositif que le vivant a réinventé d'innombrables fois : **régler le comportement de chacun sur l'état perçu du collectif**. Les éthologues parlent à son sujet de « réponse de quorum » (*quorum response*) — un terme qu'ils emploient indifféremment pour les bactéries, les insectes et les mammifères.
+
+**Chez les bactéries.** Le *quorum sensing* en est la forme la plus élémentaire : chaque cellule sécrète une molécule signal, et lorsque la concentration dépasse un seuil, la colonie entière bascule d'un coup dans un nouveau comportement — production de lumière, virulence, formation d'un biofilm. Personne ne décide ; le seuil décide.
+
+**Chez les insectes eusociaux.** L'abeille pousse le procédé jusqu'à la décision collective : lors du choix d'un nouveau nid, les éclaireuses dansent pour leur site, et un site qui atteint un quorum d'éclaireuses emporte la décision de l'essaim (travaux de Thomas Seeley). Mieux : une abeille peut émettre un *stop-signal* — un bref coup de tête vibratoire — pour **inhiber la danse d'une concurrente**. Une silenciation littérale, au service du consensus. Et lorsqu'une colonie devient trop populeuse, elle ne grossit pas indéfiniment : elle se **reproduit par scission**. La phéromone de la reine, diluée par le nombre, n'atteint plus chaque ouvrière ; le seuil franchi, l'essaim se divise. Plusieurs fourmis se reproduisent de même, par bourgeonnement de la colonie.
+
+**Chez les vertébrés grégaires.** La décision par quorum n'a rien d'une bizarrerie d'insecte. Chez le buffle d'Afrique, les femelles « votent » la direction du départ par l'orientation de leur regard avant que le troupeau ne s'ébranle (Prins). Chez le babouin, les déplacements collectifs suivent un seuil d'engagement : si assez d'individus s'engagent dans une direction, le groupe suit, quel que soit le rang de ceux qui ont initié le mouvement.
+
+**Chez les primates.** On retrouve enfin, sous une forme proche de la nôtre, l'homéostasie sociale et sa rupture. Frans de Waal a montré comment la soumission publique des subordonnés masque des coalitions privées, jusqu'au renversement soudain du dominant. Et la troupe, quand elle croît ou que ses tensions internes deviennent trop fortes, **se scinde le long de ses lignées** — comme l'ont documenté les primatologues du projet Ngogo, en Ouganda, lors de la première fission complète observée d'une grande communauté de chimpanzés, suivie de violences mortelles (Sandel et al., 2026).
+
+La falsification humaine est ce même dispositif, mais doté du langage : infiniment plus puissant, car nous pouvons anticiper le jugement d'un groupe que nous ne voyons pas — et infiniment plus dangereux, car le signal peut être lu, amplifié, fabriqué de l'extérieur. Comprendre ce dispositif, c'est tenir une clé : il explique pourquoi un collectif peut paraître unanime la veille du jour où il bascule, et pourquoi le silence d'une population ne dit jamais ce qu'elle pense — seulement ce qu'il lui en coûterait de le dire.
+
+### Références principales
+
+- Kuran, T. (1995). *Private Truths, Public Lies: The Social Consequences of Preference Falsification*. Harvard University Press.
+- Kuran, T. (1991). Now Out of Never: The Element of Surprise in the East European Revolution of 1989. *World Politics*, 44(1), 7–48.
+- Kuran, T. & Sunstein, C. R. (1999). Availability Cascades and Risk Regulation. *Stanford Law Review*, 51(4), 683–768.
+- Noelle-Neumann, E. (1984). *The Spiral of Silence: Public Opinion — Our Social Skin*. University of Chicago Press. [concept introduit en 1974]
+- Harvey, J. B. (1974). The Abilene Paradox: The Management of Agreement. *Organizational Dynamics*, 3(1), 63–80.
+- de Waal, F. (1982). *Chimpanzee Politics: Power and Sex among Apes*. Jonathan Cape.
+- Sandel, A. A., Mitani, J. C., et al. (2026). Lethal conflict after group fission in wild chimpanzees. *Science*. https://doi.org/10.1126/science.adz4944
+- Seeley, T. D. (2010). *Honeybee Democracy*. Princeton University Press.
+- Seeley, T. D. *et al.* (2012). Stop Signals Provide Cross Inhibition in Collective Decision-Making by Honeybee Swarms. *Science*, 335(6064), 108–111.
+- Sumpter, D. J. T. & Pratt, S. C. (2009). Quorum responses and consensus decision making. *Philosophical Transactions of the Royal Society B*, 364(1518), 743–753.
+- Conradt, L. & Roper, T. J. (2003). Group decision-making in animals. *Nature*, 421, 155–158.
+- Prins, H. H. T. (1996). *Ecology and Behaviour of the African Buffalo*. Chapman & Hall. [« vote » par l'orientation du regard]
+
+
+---
+
+## La criminalisation des émotions
+
+**Comment le droit pénal est passé du corps à la psyché**
+
+La « criminalisation des émotions » désigne le processus par lequel le droit pénal intègre progressivement la dimension émotionnelle : punir des conduites qui causent à autrui une détresse — peur, humiliation, angoisse — ou faire des émotions — haine, provocation — un facteur aggravant ou atténuant de la responsabilité. Il ne s'agit pas de punir les sentiments intérieurs en eux-mêmes — ce serait incompatible avec les principes libéraux — mais de réguler pénalement leurs manifestations et leurs effets sur autrui. Le phénomène est récent, et il accompagne un déplacement plus large : d'une justice centrée sur le corps vers une justice attentive à la psyché.
+
+### Les racines lointaines (avant le XXe siècle)
+
+Dans le *common law* anglais et les traditions continentales classiques, l'émotion ne joue qu'un rôle indirect. La défense de *provocation* — la perte de contrôle sous l'effet d'une colère soudaine — permet depuis le Moyen Âge de requalifier un meurtre volontaire en homicide non prémédité. Mais le droit pénal vise les dommages physiques tangibles et l'intention coupable (*mens rea*). Causer de la peur, de l'humiliation ou de la détresse psychologique n'est pas, en soi, une infraction — sauf dans des cas particuliers comme l'injure ou l'atteinte à l'honneur.
+
+### L'émergence : droits civiques et crimes de haine (1960-1970)
+
+Le tournant moderne apparaît aux États-Unis dans les années 1960, dans le sillage du mouvement des droits civiques. Devant les violences raciales — lynchages, attentat de l'église baptiste de Birmingham en 1963 — et l'incapacité fréquente des autorités locales à poursuivre, le Congrès agit. En 1968, le *Civil Rights Act* introduit les premières lois fédérales sur les *hate crimes* : il punit les atteintes violentes à des droits protégés (vote, logement, éducation) lorsqu'elles sont motivées par la race, la couleur, la religion ou l'origine nationale. Le motif émotionnel négatif — la haine — devient un facteur aggravant. Pour la première fois, l'état intérieur de l'auteur justifie systématiquement une répression plus sévère.
+
+### L'accélération : harcèlement et préjudice psychologique (années 1990)
+
+Les années 1990 marquent une expansion décisive. En 1990, la Californie adopte la première loi anti-*stalking*, après le meurtre de l'actrice Rebecca Schaeffer par un admirateur obsessionnel en 1989. Ces lois criminalisent des comportements répétés qui provoquent une « peur raisonnable » ou une « détresse émotionnelle ». Tous les États suivent rapidement ; une loi fédérale paraît en 1994 (*Violence Against Women Act*). En parallèle, les lois sur les crimes de haine se multiplient et s'élargissent — orientation sexuelle, genre, handicap. Cette période coïncide avec la reconnaissance clinique du trauma psychologique (PTSD), l'essor du mouvement féministe sur la visibilité des violences psychologiques, et l'apparition du cyberharcèlement.
+
+### L'institutionnalisation (2000-2020)
+
+Dans les années 2000, de nombreux pays reconnaissent explicitement les violences psychologiques. La France criminalise en 2010 les violences psychologiques au sein du couple — les atteintes répétées à la dignité causant une altération de la santé. Le Royaume-Uni introduit en 2015 le *coercive control*, le contrôle coercitif. La théorie suit. La criminologue Susanne Karstedt décrit en 2002 l'*emotionalization of law* : le retour massif des émotions — colère, honte, peur, dégoût — dans le système pénal des sociétés tardo-modernes, les juges étant les premiers à transformer le tribunal en espace public d'émotions. En 2020, la juriste Nina Peršak propose une typologie de la détresse émotionnelle pénalement pertinente, distinguant les approches *offence-based* — punir le simple choc ou l'indignation — et *harm-based* — exiger un préjudice psychologique réel et sérieux ; elle plaide pour une criminalisation limitée, fidèle au principe d'*ultima ratio*, qui veut que le droit pénal ne soit employé qu'en dernier recours.
+
+### Pourquoi cette évolution ?
+
+Plusieurs forces convergent : la reconnaissance scientifique du préjudice émotionnel comme équivalent ou complément du préjudice physique ; l'individualisation et le *victim-centrism* des sociétés contemporaines, portés par le féminisme et les mouvements contre les discriminations ; les émotions publiques elles-mêmes — peur du crime, indignation médiatisée, populisme pénal ; et la technologie, qui amplifie le harcèlement en ligne.
+
+### Ce que cela déplace
+
+En deux générations, le droit pénal est ainsi passé du corps à la psyché. L'intention est légitime : la souffrance psychologique est réelle, et certaines conduites — le harcèlement obsessionnel, le contrôle coercitif — la produisent délibérément. Mais le déplacement soulève un problème que nos ancêtres n'auraient pas même compris : pour eux, les émotions étaient l'étoffe ordinaire de la vie sociale, non une matière que des tribunaux auraient à peser. Réguler pénalement le ressenti, c'est s'aventurer sur un terrain par nature subjectif, élastique, et difficile à établir autrement que par la performance — d'où le risque, signalé aussi bien par Karstedt que par Peršak, d'une surcriminalisation qui confond l'offense passagère et le préjudice grave, et qui fait dépendre la liberté d'expression de l'humeur des juges. À la limite, punir l'état intérieur que trahit un propos rejoint le *crime par la pensée* d'Orwell. C'est pourquoi le principe d'*ultima ratio* — n'employer le pénal qu'en tout dernier recours — n'est pas une précaution technique : c'est une digue.
+
+### Références principales
+
+- Civil Rights Act of 1968, Title I (dispositions fédérales sur les *hate crimes*). États-Unis.
+- California Penal Code § 646.9 (1990), première loi anti-*stalking*. Californie.
+- Violence Against Women Act (1994). États-Unis.
+- Loi n° 2010-769 du 9 juillet 2010 (violences psychologiques au sein du couple). France.
+- Serious Crime Act 2015, section 76 (*coercive or controlling behaviour*). Royaume-Uni.
+- Karstedt, S. (2002). Emotions and criminal justice. *Theoretical Criminology*, 6(3), 299–317. https://doi.org/10.1177/136248060200600304
+- Peršak, N. (2020). Pathways to the criminalisation of emotional distress: An offence- and harm-based typology. *International Journal of Law, Crime and Justice*, 62, 100393. https://doi.org/10.1016/j.ijlcj.2020.100393
+- Orwell, G. (1949). *Nineteen Eighty-Four*. Secker & Warburg. [le « crime par la pensée »]
+
+
+---
+
 ## Les quatre niveaux de résolution des conflits inter-culturels
 
 Reconnaître les cultures comme personnes juridiques ne supprime pas les conflits — c'est impossible et ce n'est pas le but. Mais cela permet de les réguler selon leur nature réelle. Les interactions entre groupes obéissent à une logique naturelle, observable chez tous les primates sociaux, que l'on peut encadrer plutôt que nier. Cette logique se déploie en quatre niveaux, du moins coûteux au plus coûteux.
 
-**L'évitement** est le premier réflexe, et le plus efficace. Quand deux groupes aux valeurs incompatibles ne s'affrontent pas, c'est souvent parce qu'ils s'évitent. L'État actuel répugne à l'admettre — il y voit une menace à la "cohésion nationale" — et dépense une énergie considérable à forcer des cohabitations que personne ne veut. L'algo-state l'accepte par défaut : l'évitement n'est pas un problème à résoudre. C'est de l'énergie sociale économisée.
+**L'évitement** est le premier réflexe, et le plus efficace. Quand deux groupes aux valeurs incompatibles ne s'affrontent pas, c'est souvent parce qu'ils s'évitent. L'État actuel répugne à l'admettre — il y voit une menace à la "cohésion nationale" — et dépense une énergie considérable à forcer des cohabitations que personne ne veut. 
 
 **La séparation** va un cran plus loin : des communautés qui préfèrent vivre entre elles, établir leurs propres espaces, leurs propres règles de voisinage. La ségrégation peut émerger sans oppression étatique — elle émergera de toute façon, comme elle l'a toujours fait. La reconnaître juridiquement, c'est lui donner un cadre et des limites, plutôt que de la laisser se produire dans le déni. Une aire culturelle exclusive n'est pas un ghetto : c'est un espace dont les règles sont connues, choisies, et révisables.
 
@@ -1072,9 +1277,8 @@ Reconnaître les cultures comme personnes juridiques ne supprime pas les conflit
 
 **L'affrontement** est inévitable dans certains cas, et vouloir l'éliminer entièrement revient à le refouler — jusqu'à ce qu'il explose sans règles. Mieux vaut l'encadrer. Des arènes politiques d'abord : des forums de débat ouverts où toute opinion peut s'exprimer, sans censure pour "discours de haine", parce que la violence des mots dans un espace dédié vaut infiniment mieux que la violence des corps dans la rue. Des arènes physiques ensuite, pour régler par une violence consentie et contrôlée ce qui ne peut se régler autrement — règles précises, consentement éclairé de tous les participants, encadrement strict. En dehors de ces espaces, la violence reste interdite et gérée par une police impartiale.
 
-Ce cadre ne prétend pas éliminer la tension entre cultures. Il prétend lui donner une forme — ce que toutes les civilisations durables ont fait, chacune à leur manière.
-
 ---
+
 ## Pauvreté, criminalité et divergence interprétative
 
 **La question**
@@ -1138,4 +1342,3 @@ Le lien entre pauvreté et criminalité est un exemple parmi d'autres d'une prop
 Ce qui suit en est la conséquence directe : le choix des politiques de gestion de la criminalité est, en dernière instance, un choix culturel. Non par défaut d'information, mais par nature. Décider quels mécanismes prioriser, quelle pondération accorder aux différents faits, quels arbitrages sont légitimes — tout cela engage des valeurs que la science ne peut pas ordonner à la place des sociétés. Prétendre le contraire — présenter une politique judiciaire comme la conséquence logique d'un diagnostic scientifique —, c'est masquer un choix culturel derrière une autorité qu'on lui emprunte sans droit. La divergence interprétative n'appelle pas une science plus parfaite. Elle appelle un cadre institutionnel capable de faire coexister des choix culturels légitimes mais incompatibles.
 
 Ce cadre ne prétend pas éliminer la tension entre cultures. Il prétend lui donner une forme — ce que toutes les civilisations durables ont fait, chacune à leur manière.
-
