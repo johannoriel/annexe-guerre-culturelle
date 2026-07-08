@@ -996,16 +996,6 @@ Les critiques sont importantes. Maturana lui-même a contesté l'extension de so
 
 Ce livre prend parti : les entités culturelles atteignant le niveau 4 présentent tous les traits fonctionnels de l'autopoïèse — reproduction, clôture opérationnelle relative, résistance aux perturbations externes, génération interne de normes — même si la clôture n'est jamais totale. Krakauer fournit la démonstration empirique : la computation sociale des entités de fusion-fission persistantes génère des comportements collectifs irréductibles aux comportements individuels qui les composent, mesurables, stables, et transmissibles. Le débat philosophique reste ouvert. Les phénomènes qu'il décrit sont réels.
 
-### Gumilev et la passionarité (avec précaution)
-
-Lev Gumilev, géographe et ethnologue russe (1912–1992), a développé une théorie de l'ethnogénèse fondée sur le concept de *passionarité* — une énergie biochimique particulière qui, selon lui, est inégalement distribuée dans les populations humaines. Les individus passionnaires auraient une capacité disproportionnée à créer et à transformer les cultures ; leur concentration dans une population déclencherait les phases d'expansion de l'ethnogénèse.
-
-La théorie a une valeur heuristique réelle : Gumilev a été l'un des premiers à traiter l'ethnogénèse comme un processus dynamique avec des phases identifiables (naissance, expansion, consolidation, déclin), et ses observations empiriques sur les cycles des civilisations sont stimulantes. Mais plusieurs précautions s'imposent.
-
-D'abord, la base biochimique de la passionarité n'a jamais été démontrée et relève de la spéculation. Ensuite, et surtout, la théorie de Gumilev a été abondamment récupérée par le nationalisme russe — en particulier par Aleksandr Douguine et les courants eurasistes — comme justification pseudo-scientifique d'une destinée russe particulière et d'un destin civilisationnel de domination. Ce contexte politique doit être maintenu à l'esprit dans toute citation ou usage de ses travaux.
-
-Pour ce livre, la contribution utile de Gumilev est la démonstration que l'ethnogénèse a des phases dynamiques et qu'une entité culturelle peut régresser depuis les niveaux supérieurs vers les niveaux inférieurs sous certaines conditions — ce que son modèle de "dépassement" (*perekhod*) et de déclin décrit avec une certaine précision.
-
 ### La frontière comme peau du collectif
 
 Un mécanisme central de l'ethnogénèse est l'émergence de frontières. Non les frontières politiques tracées par des traités, mais les frontières symboliques qui encodent l'identité sur leur surface — ce que Karl Friston appellerait des "couvertures de Markov" à l'échelle culturelle.
@@ -1340,5 +1330,54 @@ La science peut éclairer les mécanismes, préciser les conditions d'efficacit�
 Le lien entre pauvreté et criminalité est un exemple parmi d'autres d'une propriété plus générale : on ne peut pas partir du principe que la science tranchera les questions de société. Elle peut éclairer le débat, parfois fortement — invalider certaines hypothèses, préciser les conditions d'efficacité des mesures —, mais elle ne produit ni interprétation unique ni solution évidente, même dans un cadre idéal sans biais idéologique. La divergence interprétative n'est pas un accident. C'est la règle dans les systèmes complexes.
 
 Ce qui suit en est la conséquence directe : le choix des politiques de gestion de la criminalité est, en dernière instance, un choix culturel. Non par défaut d'information, mais par nature. Décider quels mécanismes prioriser, quelle pondération accorder aux différents faits, quels arbitrages sont légitimes — tout cela engage des valeurs que la science ne peut pas ordonner à la place des sociétés. Prétendre le contraire — présenter une politique judiciaire comme la conséquence logique d'un diagnostic scientifique —, c'est masquer un choix culturel derrière une autorité qu'on lui emprunte sans droit. La divergence interprétative n'appelle pas une science plus parfaite. Elle appelle un cadre institutionnel capable de faire coexister des choix culturels légitimes mais incompatibles.
+
+---
+
+## Elinor Ostrom et la gouvernance des communs
+
+*(Annexe associée à Ch. « Vers l'algo-state et le fédéralisme culturel » — section « Ce que l'histoire nous a déjà appris »)*
+
+**Ce qu'Ostrom a découvert**
+
+Le point de départ d'Elinor Ostrom, seule femme à ce jour distinguée par le prix de la Banque de Suède en sciences économiques (2009), est une réfutation empirique. La « tragédie des communs » de Garrett Hardin (1968) ne décrit pas un commun réel : elle décrit un accès ouvert anonyme — sans règles, sans communication, sans histoire partagée — où la surexploitation est effectivement inévitable. Mais Ostrom a constaté, à travers des décennies de travail de terrain, que des communautés réelles gèrent des ressources communes durablement, sans privatisation ni tutelle étatique : les alpages suisses gérés depuis sept cents ans, le tribunal des eaux de Valence, les forêts communautaires du Népal, les pêcheries côtières du Maine. Un troisième chemin, entre marché et bureaucratie.
+
+De ces cas, elle tire quatre principes de conception (*design principles*) récurrents :
+
+1. **Frontières claires et règles précises adaptées au local.** On sait exactement qui est membre — pas d'accès libre aux non-membres — et les règles d'usage sont des quotas concrets, spécifiques à la ressource et au contexte, pas de vagues incantations.
+2. **Les règles sont écrites par les usagers eux-mêmes.** Principe démocratique ascendant : ceux qui dépendent de la ressource participent à la fabrication et à la modification des règles — pas un fonctionnaire distant. C'est ce qui fonde la légitimité.
+3. **Surveillance et sanctions graduées, assurées par la communauté elle-même.** Pas de police séparée : les usagers s'observent mutuellement, et la sanction est progressive — avertissement, amende, exclusion temporaire — jamais une répression disproportionnée dès la première faute.
+4. **Résolution de conflit rapide et locale, et autonomie reconnue de l'extérieur.** Un conflit se règle localement, et les autorités extérieures respectent le droit de la communauté à s'auto-gouverner. Le moyen le plus sûr de détruire un commun séculaire qui fonctionne, c'est qu'un État impose une réforme uniforme en ignorant les règles locales.
+
+Reste l'objection du passage à l'échelle : ces principes marchent-ils au-delà d'un village ou d'une vallée ? Ostrom répond par la **gouvernance polycentrique** — non pas un traité mondial unique, rigide et aveugle au local, mais de multiples centres d'autorité, à des échelles différentes, agissant chacun de façon largement indépendante mais sur le même problème (Accord de Paris, Union européenne, États fédérés, réseau de villes C40, engagements d'entreprises). Pas une pyramide à sommet unique : un écosystème emboîté, redondant, résilient — l'extension du principe 4 à l'échelle globale.
+
+**Une correspondance structurelle avec la personne culturelle**
+
+La synergie avec le fédéralisme culturel décrit dans ce livre n'est pas une simple analogie — elle est quasi structurelle, principe par principe.
+
+Le principe 1 (frontières claires) est exactement ce que la personne culturelle formalise juridiquement : savoir qui est membre, jusqu'à la reconnaissance légale de l'affiliation. Le principe 2 (règles faites par les usagers) est l'ADN même du fédéralisme culturel : chaque personne culturelle écrit son propre droit de la famille, ses propres institutions ; l'algo-state renonce explicitement à trancher sur le fond — le principe 2 élevé au rang de souveraineté normative. Le principe 3 (sanctions graduées, auto-surveillance) correspond littéralement au mécanisme de co-responsabilité collective proposé — signal, réparation de type wergild, suspension de représentation — transposé au niveau inter-culturel plutôt qu'intra-communautaire.
+
+Le point de correspondance le plus frappant reste le principe 4 conjugué à la gouvernance polycentrique. La réponse d'Ostrom à « comment gérer une ressource à l'échelle mondiale sans traité unique et rigide » — des centres d'autorité imbriqués, un cadre commun minimal, aucune pyramide à sommet unique — est structurellement identique à l'architecture proposée dans ce livre : l'algo-state comme cadre procédural minimal (une seule règle, la réciprocité), et les personnes culturelles comme centres d'autorité autonomes sur le fond. Le fédéralisme culturel est, en un sens, la gouvernance polycentrique d'Ostrom appliquée non à une ressource matérielle mais au **commun cognitif** que constitue chaque culture.
+
+**Les limites : trois tensions à ne pas escamoter**
+
+*L'origine du commun.* Tous les cas de succès d'Ostrom sont ascendants : la confiance, la réputation et l'histoire partagée précèdent la formalisation des règles. La personne culturelle, elle, est un acte descendant — une reconnaissance juridique accordée par l'algo-state. Le risque : instituer une personnalité juridique pour un groupe qui n'a pas encore développé de capacité réelle d'auto-gouvernance revient à donner une coquille juridique sans intelligence collective fonctionnelle derrière — l'inverse exact de la trajectoire d'Ostrom, où l'institution codifie ce qui marchait déjà. Une reconnaissance sérieuse devrait donc se mériter — se conditionner ou se graduer selon une capacité d'auto-gouvernance démontrée — plutôt que s'accorder a priori à toute identité déclarée.
+
+*Frontières floues et appartenances multiples.* Les communs d'Ostrom ont des membres relativement bien délimités et peu chevauchants — les irrigants de telle vallée, les pêcheurs de tel golfe. Une culture est intrinsèquement plus floue : appartenances multiples, hybrides, changeantes. Le fédéralisme culturel le sait et compense — passeport temporaire, zones tampons —, mais c'est un vrai écart par rapport au principe 1 tel qu'Ostrom l'a observé : le flou des frontières est justement ce qui, dans ses cas d'échec documentés, empêche la surveillance et les sanctions de fonctionner.
+
+*Le risque de recentralisation par l'arbitre.* L'algo-state reste un point unique, même conçu comme procédural et neutre. Ostrom est explicite : le plus sûr moyen de détruire un commun qui marche, c'est qu'une autorité extérieure impose une réforme uniforme en ignorant les règles locales. Toute dérive de l'algo-state du méta-procédural (garantir la réciprocité) vers le substantiel (juger ce qui est une bonne pratique interne à une culture) reproduirait exactement cette pathologie. C'est la condition de survie de tout l'édifice, pas un détail.
+
+**Ce que cela justifie — l'échelle subnationale**
+
+C'est ici que le rapprochement rend le service le plus direct à la thèse de ce livre. Les cas qu'Ostrom étudie ne sont jamais des nations : ce sont des vallées, des villages, des bassins de pêche — des échelles infra-nationales, souvent infra-régionales. Elle documente empiriquement, sur des périodes parfois séculaires, que des collectifs de cette taille peuvent exercer une souveraineté normative réelle — écrire leurs propres règles, les faire respecter, trancher leurs propres conflits — sans jamais dissoudre l'État qui les englobe ni s'y substituer. C'est très exactement ce que la personne culturelle réclame : une capacité d'auto-gouvernance reconnue à une échelle plus fine que la nation, sans prétention sécessionniste. Et la logique va plus loin : un commun qui réussit *devient* de facto une identité. On ne peut pas produire des sanctions graduées sans mémoire persistante des comportements passés, ni un juge local reconnu sans un minimum de spécialisation des rôles, ni un commun qui survit plusieurs générations sans que quelque chose y persiste au-delà de ses fondateurs. Un commun stable et durable, selon les critères mêmes d'Ostrom, n'est donc jamais un pur mécanisme fonctionnel désincarné : c'est une intelligence collective émergente qui a franchi, a minima, ses premières étapes de consolidation. Ostrom, sans le théoriser en ces termes, a documenté les conditions d'émergence d'une identité culturelle minimale et fonctionnelle — à l'échelle précise que la personne culturelle cherche à formaliser.
+
+**Verdict.** La proposition n'est pas seulement compatible avec les principes d'Ostrom — sur les principes 2, 3 et surtout 4, elle en est une extension directe, appliquée au commun cognitif qu'est une culture plutôt qu'à une ressource matérielle. Le risque ne vient pas d'une contradiction avec Ostrom, mais d'un ordre des opérations inversé : elle code après coup un self-government déjà réel ; la personne culturelle risque de créer le statut juridique avant que la capacité d'auto-gouvernance existe. La proposition tient si la reconnaissance récompense une auto-gouvernance déjà démontrée plutôt que de la présumer, si l'algo-state reste strictement procédural, et si les frontières d'appartenance, bien que portables, restent assez nettes pour permettre la surveillance et la sanction — les trois conditions mêmes qu'Ostrom a isolées empiriquement comme faisant la différence entre un commun qui dure des siècles et un qui s'effondre.
+
+### Références principales
+
+- Ostrom, E. (1990). *Governing the Commons: The Evolution of Institutions for Collective Action*. Cambridge University Press.
+- Ostrom, E. — Prix de la Banque de Suède en sciences économiques en mémoire d'Alfred Nobel (2009), pour son analyse de la gouvernance économique, en particulier des biens communs.
+- Hardin, G. (1968). The Tragedy of the Commons. *Science*, 162(3859), 1243–1248.
+- *Elinor Ostrom vs. the Tragedy of the Commons: A Third Way to Solve Global Environmental Problems* (vidéo). https://www.youtube.com/watch?v=uAQbCBnJwDo
+- Nouvelle-Zélande — *Te Awa Tupua (Whanganui River Claims Settlement) Act* (2017), reconnaissance du fleuve Whanganui comme personne juridique. [précédent de personnalité juridique non-humaine cité en parallèle]
 
 Ce cadre ne prétend pas éliminer la tension entre cultures. Il prétend lui donner une forme — ce que toutes les civilisations durables ont fait, chacune à leur manière.
